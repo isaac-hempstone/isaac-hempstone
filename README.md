@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://images.alphacoders.com/100/1003227.png" width="700" alt="Demon Slayer banner" />
+</p>
 
-<!--
-**isaac-hempstone/isaac-hempstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚔️ Hi there, I'm Isaac Hempstone 🌊🔥</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"No matter how many people you may lose, you have no choice but to go on living."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🗡️ Current Breathing Style (Tech Stack)
+
+- 🌊 **Water Breathing (Frontend):** HTML, CSS, JavaScript, React
+- 🔥 **Hinokami Kagura (Backend):** Node.js, Python, SQL
+- ⚡ **Thunder Breathing (Tools):** Git, Docker, Linux
+
+### 📊 Demon Slayer Corps Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=isaac-hempstone&show_icons=true&theme=tokyonight"
+    alt="Isaac's GitHub stats"
+  />
+</p>
